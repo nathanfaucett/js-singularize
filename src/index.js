@@ -1,4 +1,4 @@
-var inflections = require("inflections");
+var inflections = require("@nathanfaucett/inflections");
 
 
 module.exports = singularize;
